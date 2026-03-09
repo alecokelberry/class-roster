@@ -50,3 +50,11 @@ The program parses a comma-separated dataset of student information, populates a
 ## Author Notes
 
 This application acts as a foundational portfolio piece highlighting proficiency in reading structured data, managing objects in a strictly typed language, handling pointer safety/memory management, and writing well-encapsulated class files.
+
+## Sample Output
+
+![Program Output](./class-roster-output.png)
+
+## What I Learned
+
+This project strengthened my understanding of C++ memory management and object lifecycle, particularly proper RAII principles and avoiding common pointer pitfalls like memory leaks and dangling pointers.
